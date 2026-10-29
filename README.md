@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)
 
-O **CPF Validadpr** é um microserviço RESTful projetado para validação matemática rigorosa, enriquecimento de metadados geográficos e análise heurística de risco de fraudes em números de CPF (Cadastro de Pessoas Físicas).
+O **CPF Validador** é um microserviço RESTful projetado para validação matemática rigorosa, enriquecimento de metadados geográficos e análise heurística de risco de fraudes em números de CPF (Cadastro de Pessoas Físicas).
 
 Diferente de algoritmos simplistas de validação, este projeto aplica arquitetura limpa (**Clean Architecture**), conformidade com a **LGPD** e princípios de **Domain-Driven Design (DDD)** para isolar regras de negócio de frameworks de transporte.
 
