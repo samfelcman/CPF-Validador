@@ -1,3 +1,5 @@
+# Coloquei aqui o módulo de expressões reguralares para a manipulação de texto e os recursos de tipagem avancaçada do Python, como dataclasses e tipagem de dicionários.
+
 import re
 from dataclasses import dataclass, field
 from typing import Dict, Optional
