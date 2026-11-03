@@ -27,7 +27,7 @@ Diferente de algoritmos simplistas de validação, este projeto aplica arquitetu
 A aplicação segue uma estrutura modular desacoplada:
 
 ```text
-cpf-sentinel/
+cpf-validador/
 ├── app/
 │   ├── api/
 │   │   └── v1/
