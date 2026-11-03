@@ -4,7 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 O **CPF Validador** é um microserviço RESTful projetado para validação matemática rigorosa, enriquecimento de metadados geográficos e análise heurística de risco de fraudes em números de CPF (Cadastro de Pessoas Físicas).
 
