@@ -10,7 +10,7 @@ O **CPF Validador** é um microserviço RESTful projetado para validação matem
 
 Diferente de algoritmos simplistas de validação, este projeto aplica arquitetura limpa (**Clean Architecture**), conformidade com a **LGPD** e princípios de **Domain-Driven Design (DDD)** para isolar regras de negócio de frameworks de transporte.
 
-[![Live Demo](https://img.shields.io/badge/Swagger_Docs-Live_Demo-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://cpf-validador.onrender.com/docs)
+[![Live Demo](https://img.shields.io/badge/Swagger_Docs-Live_Demo-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://cpf-validador.onrender.com/docs) target= "_blank"
 ---
 
 ## 🎯 Principais Funcionalidades
